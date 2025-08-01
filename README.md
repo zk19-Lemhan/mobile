@@ -1,2 +1,15 @@
 # mobile
-    A modest JavaScript framework for the HTML you already have
+
+    "Adds comprehensive error handling"
+
+## Setup
+
+```
+pip install -r requirements.txt
+```
+
+## Run
+
+```
+python main.py
+```
