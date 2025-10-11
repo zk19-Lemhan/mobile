@@ -34,3 +34,6 @@ python main.py
 
 ## Update from feature/merge-4527
 - Auto-generated changes
+
+## Update from docs/merge-7957
+- Auto-generated changes
